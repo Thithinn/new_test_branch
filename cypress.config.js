@@ -20,7 +20,7 @@ module.exports = {
   e2e: {
     specPattern: [
       'cypress/e2e/Test1.js', // First test file
-      'cypress/e2e/Test2.js', // Second test file
+      'cypress/e2e/Tags.js', // Second test file
     ],
      watchForFileChanges: false
   },
